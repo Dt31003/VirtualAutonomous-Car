@@ -5,7 +5,7 @@ import Videoinput as vi
 import transformations as tf 
 import laneDetection as ld
 
-## ?  reference points = [bl, tl, tr, br]
+## ?  reference points = [bl, tl, tr, br]..
 
 ref_points = [(130 ,375),(190,232),
               (305,232), (410,375)]
